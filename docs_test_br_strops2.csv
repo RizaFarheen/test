@@ -1,0 +1,5 @@
+productName,fileName,description,email,out
+"startsWith(""iPhone"")",,,,starts
+,"endsWith("".pdf"")",,,ends
+,,"contains(""premium"")",,contains
+,,,"matches(""^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+[.][a-zA-Z]{2,}$"")",matches

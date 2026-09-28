@@ -1,0 +1,4 @@
+shippingMethod,containerSize,shippingCharge
+mail,Any,10
+mail,small,15
+Any,small,20

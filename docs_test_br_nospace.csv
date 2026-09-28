@@ -1,0 +1,2 @@
+product,out
+"!=inList({""phone"",""laptop""})",notin_nospace

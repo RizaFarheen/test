@@ -1,0 +1,9 @@
+name,product,password,category,out
+= John,,,,eq_john
+!= John,,,,ne_john
+John,,,,plain_john
+,"!= inList({""phone"",""laptop""})",,,notin_space
+,,length()>=8,,len_fixed
+,,length >= 8,,len_doc
+,,,Any,any
+,,,,empty
